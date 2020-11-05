@@ -13,7 +13,7 @@ What if I add some text here...?
 
 <img src="http://5b0988e595225.cdn.sohucs.com/images/20190806/d2dcf52affed459c886f5c11a90fd8a2.gif" style="width:66.5%">
 
-![](http://upload.cbg.cn/2019/0921/1569024327790.gif)
+![](images/1569024327790.gif)
 
 ## Here's a subsection
 
